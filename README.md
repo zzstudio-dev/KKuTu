@@ -1,6 +1,7 @@
 #JHKKuTu | 전학컴 끄투
 ## 한국어
 > 글로벌한 끝말잇기, 전학컴 끄투.
+
 [공식사이트](http://jeonhagkeom.com) [디스코드](https://discord.gg/fsUc79VBkF)
 
 전학컴 끄투는 쪼리핑의 끄투 프로젝트를 포크하여 만들어진 웹 게임입니다.
