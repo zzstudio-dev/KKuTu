@@ -1,3 +1,18 @@
+#JHKKuTu | 전학컴 끄투
+## 한국어
+> 글로벌한 끝말잇기, 전학컴 끄투.
+[공식사이트](http://jeonhagkeom.com) [디스코드](https://discord.gg/fsUc79VBkF)
+
+전학컴 끄투는 쪼리핑의 끄투 프로젝트를 포크하여 만들어진 웹 게임입니다.
+이에 따라, 기존 끄투에 적용되어 있는 라이센스인 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 라이센스를 따릅니다.
+
+## English
+> A global Word Relay(kkeutmalisgi), JHKKuTu
+[Official Site](http://jeonhagkeom.com)
+
+JHKKuTu is a web game created by forking the KKuTu project of JJoriping.
+Accordingly, the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) license, which is the license applied to the existing KKuTu, is followed.
+
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
