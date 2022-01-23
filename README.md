@@ -1,6 +1,6 @@
 # JHKKuTu | 전학컴 끄투
 ## Korean
-> 글로벌한 끝말잇기, 전학컴 끄투.
+> 온 국민들이 즐기는 게임, 끝말잇기와 쿵쿵따, 자음퀴즈 등...이 온라인 `웹` 게임으로 탄생한다!
 
 [공식사이트](http://jeonhagkeom.com) [디스코드](https://discord.gg/fsUc79VBkF)
 
@@ -8,7 +8,7 @@
 이에 따라, 기존 끄투에 적용되어 있는 라이센스인 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 라이센스를 따릅니다.
 
 ## Global
-> A global Word Relay(kkeutmalisgi), JHKKuTu
+> Games enjoyed by the word-relay, such as continuation, kung kung-ta, consonant quiz, etc... are born as an online 'web' game!
 
 [Official Site](http://jeonhagkeom.com)
 
