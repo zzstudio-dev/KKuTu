@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Yangjin';
+    src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#Top{
+	background-color: #EB582D!important;
+}
+#Top .menu-btn{
+	color: #111111;
+	background-color: #EB582D!important;
+}
+body{
+    font-family: 'Yangjin'!important;
+    background-color: #c5c3b2!important;
+}
+.jumbotron{
+    padding-left: 50px;
+}
+.bulletin-iframe{
+    padding: 1.5rem;
+}
+.btn-primary {
+    background-color: #00618E!important;
+    border-color: #00618E!important;
+}
+.btn-primary:hover {
+    background-color: #20445A!important;
+    border-color: #20445A!important;
+}
+.bottom-legal a{
+    color: #00618E!important;
+}
+.bottom-legal a:hover{
+    color: #20445A!important;
+}
+.bottom-legal{
+    color: #898884;
+}
