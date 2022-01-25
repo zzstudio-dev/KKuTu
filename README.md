@@ -1,3 +1,8 @@
+# JHKKuTu
+> 온 국민들이 즐기는 게임, 끝말잇기와 쿵쿵따, 자음퀴즈 등...이 온라인 `웹` 게임으로 탄생한다!
+
+전학컴 끄투의 소스코드는 GNU General Public License v3.0에 따라 오픈소스로 공개되고 있습니다.
+
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
